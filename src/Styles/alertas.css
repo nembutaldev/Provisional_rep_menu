@@ -1,0 +1,18 @@
+.pop-class{
+    border-radius:var(--gd-border)!important;
+    
+}
+.title-class{
+    color:var(--base)!important;
+    font-family:'Medium'!important;
+    font-size:1.5rem!important;
+}
+
+.confirm-class{
+    background:var(--base)!important;
+    font-family:'Thin'!important;
+    border-radius:var(--sl-border)!important;
+}
+.container-class{
+    background:rgba(0,0,0,0.8)!important;
+}
